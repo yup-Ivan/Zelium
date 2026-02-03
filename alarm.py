@@ -1,4 +1,4 @@
-# Zelium/alarm.py
+# zelium/alarm.py
 from selenium.common.exceptions import NoAlertPresentException
 from selenium.webdriver.remote.webdriver import WebDriver
 
