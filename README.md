@@ -1,12 +1,5 @@
 # ZELIUM
 
-## You can install it using these instructions:
-```text
-python -m venv venv
-.\venv\Scripts\activate.bat // source venv/bin/activate
-pip install zelium
-```
-
 **ZELIUM** is a web automation framework based on **Selenium**, written in **Python**, designed to **simplify, standardize, and accelerate** the creation of web automation scripts.
 
 It is designed to:
@@ -14,6 +7,15 @@ It is designed to:
 - Centralize common patterns (waits, scrolls, JS fallbacks…)
 - Provide a clear and expressive API (in Spanish and English)
 - Make maintenance of complex automation scripts easier
+
+---
+
+## You can install it using these instructions:
+```text
+python -m venv venv
+.\venv\Scripts\activate.bat // source venv/bin/activate
+pip install zelium
+```
 
 ---
 
