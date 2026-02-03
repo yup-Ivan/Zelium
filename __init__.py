@@ -1,4 +1,4 @@
-# Zelium/__init__.py
+# zelium/__init__.py
 from .js import JS
 from .alarm import Alarm
 from .tools import open
@@ -8,6 +8,8 @@ from .xpath import (
     select, force_select_combobox, clear,
     delDisable,
 )
+
+__version__ = "0.1.6"
 
 # ─────────────────────────────
 # Alias (multi-idioma / semánticos)
