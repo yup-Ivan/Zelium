@@ -1,4 +1,4 @@
-# Zelium/js.py
+# zelium/js.py
 from selenium.common.exceptions import JavascriptException, NoSuchElementException
 from selenium.webdriver.remote.webdriver import WebDriver
 from selenium.webdriver.common.by import By
